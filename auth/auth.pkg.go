@@ -7,8 +7,8 @@ import (
 	"strconv"
 	"time"
 
-	errorpkg "github.com/eden/go-kratos-pkg/error"
-	uuidpkg "github.com/eden/go-kratos-pkg/uuid"
+	errorpkg "github.com/eden-quan/go-kratos-pkg/error"
+	uuidpkg "github.com/eden-quan/go-kratos-pkg/uuid"
 	"github.com/go-kratos/kratos/v2/middleware"
 	"github.com/go-kratos/kratos/v2/transport"
 )

@@ -1,7 +1,7 @@
 package websocketpkg
 
 import (
-	headerpkg "github.com/eden/go-kratos-pkg/header"
+	headerpkg "github.com/eden-quan/go-kratos-pkg/header"
 	"github.com/gorilla/websocket"
 	"net/http"
 )

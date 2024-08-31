@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	threadpkg "github.com/eden/go-kratos-pkg/thread"
+	threadpkg "github.com/eden-quan/go-kratos-pkg/thread"
 )
 
 // RedisCacheKeyPrefix ...

@@ -3,11 +3,11 @@ package registrypkg
 import (
 	"context"
 	"fmt"
-	"github.com/eden/go-kratos-pkg/registry/config"
-	"github.com/eden/go-kratos-pkg/registry/k8s"
-	"github.com/eden/go-kratos-pkg/registry/local"
-	"github.com/eden/go-kratos-pkg/registry/nacos"
-	"github.com/eden/go-kratos-pkg/registry/util"
+	"github.com/eden-quan/go-kratos-pkg/registry/config"
+	"github.com/eden-quan/go-kratos-pkg/registry/k8s"
+	"github.com/eden-quan/go-kratos-pkg/registry/local"
+	"github.com/eden-quan/go-kratos-pkg/registry/nacos"
+	"github.com/eden-quan/go-kratos-pkg/registry/util"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/registry"
 )

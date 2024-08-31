@@ -8,7 +8,7 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 	"errors"
-	base64pkg "github.com/eden/go-kratos-pkg/base64"
+	base64pkg "github.com/eden-quan/go-kratos-pkg/base64"
 )
 
 // GenRsaKey RSA公钥私钥产生

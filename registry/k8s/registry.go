@@ -3,7 +3,7 @@ package k8s
 import (
 	"context"
 	"fmt"
-	"github.com/eden/go-kratos-pkg/registry/config"
+	"github.com/eden-quan/go-kratos-pkg/registry/config"
 	"github.com/go-kratos/kratos/v2/registry"
 )
 

@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"time"
 
-	aespkg "github.com/eden/go-kratos-pkg/aes"
-	threadpkg "github.com/eden/go-kratos-pkg/thread"
-	uuidpkg "github.com/eden/go-kratos-pkg/uuid"
+	aespkg "github.com/eden-quan/go-kratos-pkg/aes"
+	threadpkg "github.com/eden-quan/go-kratos-pkg/thread"
+	uuidpkg "github.com/eden-quan/go-kratos-pkg/uuid"
 	"github.com/go-kratos/kratos/v2/log"
 )
 

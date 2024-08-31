@@ -2,8 +2,8 @@ package local
 
 import (
 	"context"
-	"github.com/eden/go-kratos-pkg/registry/config"
-	"github.com/eden/go-kratos-pkg/registry/util"
+	"github.com/eden-quan/go-kratos-pkg/registry/config"
+	"github.com/eden-quan/go-kratos-pkg/registry/util"
 	"github.com/go-kratos/kratos/v2/registry"
 )
 

@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package pkg.apppkg;
 
-option go_package = "github.com/eden/go-kratos-pkg/app;apppkg";
+option go_package = "github.com/eden-quan/go-kratos-pkg/app;apppkg";
 option java_multiple_files = true;
 option java_package = "pkg.apppkg";
 option java_outer_classname = "PkgAppPkg";

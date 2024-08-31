@@ -1,4 +1,4 @@
-module github.com/eden/go-kratos-pkg
+module github.com/eden-quan/go-kratos-pkg
 
 go 1.22
 

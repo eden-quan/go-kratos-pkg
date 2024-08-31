@@ -9,7 +9,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	writerpkg "github.com/eden/go-kratos-pkg/writer"
+	writerpkg "github.com/eden-quan/go-kratos-pkg/writer"
 )
 
 // 轮转日志参数

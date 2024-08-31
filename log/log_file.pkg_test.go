@@ -2,8 +2,8 @@ package logpkg
 
 import (
 	"fmt"
-	timepkg "github.com/eden/go-kratos-pkg/time"
-	writerpkg "github.com/eden/go-kratos-pkg/writer"
+	timepkg "github.com/eden-quan/go-kratos-pkg/time"
+	writerpkg "github.com/eden-quan/go-kratos-pkg/writer"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/stretchr/testify/require"
 	"testing"

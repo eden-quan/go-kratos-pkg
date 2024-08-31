@@ -4,7 +4,7 @@ import (
 	"github.com/go-kratos/kratos/v2/log"
 	"go.uber.org/zap/zapcore"
 
-	timepkg "github.com/eden/go-kratos-pkg/time"
+	timepkg "github.com/eden-quan/go-kratos-pkg/time"
 )
 
 // LoggerKey 日志消息key；例：time=2022-03-17T20:11:32.031, msg=testing

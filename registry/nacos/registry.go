@@ -2,7 +2,7 @@ package nacos
 
 import (
 	"context"
-	"github.com/eden/go-kratos-pkg/registry/config"
+	"github.com/eden-quan/go-kratos-pkg/registry/config"
 	"github.com/go-kratos/kratos/v2/registry"
 	"github.com/nacos-group/nacos-sdk-go/clients"
 	"github.com/nacos-group/nacos-sdk-go/common/constant"

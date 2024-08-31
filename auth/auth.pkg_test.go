@@ -3,7 +3,7 @@ package authpkg
 import (
 	"context"
 
-	aespkg "github.com/eden/go-kratos-pkg/aes"
+	aespkg "github.com/eden-quan/go-kratos-pkg/aes"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/middleware/selector"
 )

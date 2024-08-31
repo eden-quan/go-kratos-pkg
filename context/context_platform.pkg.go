@@ -1,7 +1,7 @@
 package contextpkg
 
 import (
-	headerpkg "github.com/eden/go-kratos-pkg/header"
+	headerpkg "github.com/eden-quan/go-kratos-pkg/header"
 )
 
 // TrustedPlatform 信任的平台

@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package kit.page.pagepkg;
 
-option go_package = "github.com/eden/go-kratos-pkg/page;pagepkg";
+option go_package = "github.com/eden-quan/go-kratos-pkg/page;pagepkg";
 
 // PageRequest 分页请求
 message PageRequest {

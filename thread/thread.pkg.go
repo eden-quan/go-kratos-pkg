@@ -2,7 +2,7 @@ package threadpkg
 
 import (
 	"context"
-	logpkg "github.com/eden/go-kratos-pkg/log"
+	logpkg "github.com/eden-quan/go-kratos-pkg/log"
 	"go.opentelemetry.io/otel/trace"
 	"runtime/debug"
 )
