@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package pkg.authpkg;
 
-option go_package = "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/auth;authpkg";
+option go_package = "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/auth;authpkg";
 option java_multiple_files = true;
 option java_package = "pkg.authpkg";
 option java_outer_classname = "PkgAuthPkg";

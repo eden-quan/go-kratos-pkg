@@ -2,8 +2,8 @@ package apppkg
 
 import (
 	stdjson "encoding/json"
-	errorpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/error"
-	headerpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/header"
+	errorpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/error"
+	headerpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/header"
 	"github.com/go-kratos/kratos/v2/encoding"
 	"github.com/go-kratos/kratos/v2/encoding/json"
 	"github.com/go-kratos/kratos/v2/transport/http"

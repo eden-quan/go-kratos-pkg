@@ -2,8 +2,8 @@ package local
 
 import (
 	"context"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/config"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/util"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/config"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/util"
 	"github.com/go-kratos/kratos/v2/registry"
 )
 

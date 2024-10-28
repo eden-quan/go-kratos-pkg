@@ -5,7 +5,7 @@ import (
 
 	"github.com/go-kratos/kratos/v2/log"
 
-	logpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/log"
+	logpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/log"
 )
 
 // options 配置可选项

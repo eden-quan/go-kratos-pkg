@@ -3,11 +3,11 @@ package registrypkg
 import (
 	"context"
 	"fmt"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/config"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/k8s"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/local"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/nacos"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/util"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/config"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/k8s"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/local"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/nacos"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/util"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/registry"
 )

@@ -10,7 +10,7 @@ import (
 	"github.com/go-kratos/kratos/v2/middleware/logging"
 	"github.com/go-kratos/kratos/v2/transport"
 
-	errorpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/error"
+	errorpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/error"
 )
 
 // Server is an server logging middleware.

@@ -2,8 +2,8 @@ package logpkg
 
 import (
 	"fmt"
-	timepkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/time"
-	writerpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/writer"
+	timepkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/time"
+	writerpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/writer"
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/stretchr/testify/require"
 	"testing"

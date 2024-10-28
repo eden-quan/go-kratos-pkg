@@ -2,7 +2,7 @@ package contextpkg
 
 import (
 	"context"
-	ippkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/ip"
+	ippkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/ip"
 	"github.com/go-kratos/kratos/v2/transport/http"
 	"google.golang.org/grpc/metadata"
 	"google.golang.org/grpc/peer"

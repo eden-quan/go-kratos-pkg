@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"time"
 
-	errorpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/error"
-	uuidpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/uuid"
+	errorpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/error"
+	uuidpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/uuid"
 	"github.com/go-kratos/kratos/v2/middleware"
 	"github.com/go-kratos/kratos/v2/transport"
 )

@@ -3,7 +3,7 @@ package websocketpkg
 import (
 	"github.com/gorilla/websocket"
 
-	connectionpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/connection"
+	connectionpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/connection"
 )
 
 // IsCloseError .

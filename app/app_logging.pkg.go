@@ -8,9 +8,9 @@ import (
 
 	"github.com/go-kratos/kratos/v2/transport/http"
 
-	contextpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/context"
-	errorpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/error"
-	headerpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/header"
+	contextpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/context"
+	errorpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/error"
+	headerpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/header"
 
 	"github.com/go-kratos/kratos/v2/log"
 	"github.com/go-kratos/kratos/v2/middleware"

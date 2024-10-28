@@ -7,9 +7,9 @@ import (
 	"github.com/redis/go-redis/v9"
 	"time"
 
-	aespkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/aes"
-	threadpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/thread"
-	uuidpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/uuid"
+	aespkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/aes"
+	threadpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/thread"
+	uuidpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/uuid"
 	"github.com/go-kratos/kratos/v2/log"
 )
 

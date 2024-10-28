@@ -2,7 +2,7 @@ package threadpkg
 
 import (
 	"context"
-	logpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/log"
+	logpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/log"
 	"go.opentelemetry.io/otel/trace"
 	"runtime/debug"
 )

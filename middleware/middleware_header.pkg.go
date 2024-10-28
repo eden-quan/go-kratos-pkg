@@ -7,7 +7,7 @@ import (
 	"github.com/go-kratos/kratos/v2/transport"
 	"go.opentelemetry.io/otel/trace"
 
-	headerpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/header"
+	headerpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/header"
 )
 
 // RequestAndResponseHeader 请求头 and 响应头

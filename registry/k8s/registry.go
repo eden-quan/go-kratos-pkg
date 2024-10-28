@@ -3,7 +3,7 @@ package k8s
 import (
 	"context"
 	"fmt"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/config"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/config"
 	"github.com/go-kratos/kratos/v2/registry"
 )
 

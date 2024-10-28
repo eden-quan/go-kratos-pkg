@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"time"
 
-	threadpkg "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/thread"
+	threadpkg "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/thread"
 )
 
 // RedisCacheKeyPrefix ...

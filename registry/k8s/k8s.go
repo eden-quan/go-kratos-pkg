@@ -2,7 +2,7 @@ package k8s
 
 import (
 	"fmt"
-	"gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/registry/k8s/k8s"
+	"gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/registry/k8s/k8s"
 	"github.com/go-kratos/kratos/v2/registry"
 	"k8s.io/client-go/kubernetes"
 	"k8s.io/client-go/rest"

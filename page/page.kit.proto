@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package kit.page.pagepkg;
 
-option go_package = "gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg/page;pagepkg";
+option go_package = "gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git/page;pagepkg";
 
 // PageRequest 分页请求
 message PageRequest {

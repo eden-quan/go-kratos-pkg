@@ -1,4 +1,4 @@
-module gitlab.lainuoniao.cn/eden-quan/go-kratos-pkg
+module gitlab.lainuoniao.cn/rhinobird/backend/go-kratos-pkg.git
 
 go 1.22
 
